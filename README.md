@@ -40,7 +40,7 @@ Follow these steps to clone and run the project on your local machine:
 ```bash
 git clone https://github.com/pramio/Medimeet_doctors-_appiontment_booming_system
 cd medimeet-appointment-app
-````
+```
 
 ### 📦 2. Install frontend dependencies
 
@@ -183,5 +183,6 @@ If you found this project helpful, feel free to:
 ---
 
 > MediMeet — because health shouldn't wait.
+
 
 
